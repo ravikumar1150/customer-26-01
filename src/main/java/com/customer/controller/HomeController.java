@@ -13,5 +13,6 @@ public class HomeController {
     public String home() {
         return "home";  // This corresponds to /WEB-INF/views/home.jsp
     }
+System.out.print("contrller")
 }
 
